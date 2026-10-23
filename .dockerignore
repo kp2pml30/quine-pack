@@ -1,0 +1,33 @@
+# build artifacts
+/build
+/target
+/dist
+/out
+result
+zig-out
+
+# editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# secrets / env
+.env
+.envrc
+.direnv
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache
+.mypy_cache
+.ruff_cache
+
+# Node
+node_modules/
+
+# nix
+result
+result-*
